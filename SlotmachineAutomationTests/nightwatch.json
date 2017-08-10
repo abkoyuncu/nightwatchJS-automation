@@ -1,5 +1,5 @@
 {
-  "src_folders" : ["SlotmachineAutomationTestFW/testSuites/ui/"],
+  "src_folders" : ["SlotmachineAutomationTestFW/testSuites/"],
   "output_folder" : "SlotmachineAutomationTestFW/reports",
   "custom_assertions_path" : "",
   "globals_path" : "",
