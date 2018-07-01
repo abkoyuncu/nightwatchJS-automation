@@ -1,6 +1,6 @@
 # README #
 
-This is for automation prototype of www.slotmachinescript.com.
+This is for automation prototype of www.slotmachinescript.com created for QA training purposes.
 
 Steps for running test :
 
@@ -13,5 +13,9 @@ Steps for running test :
 4)Get to nigthwatch.json directory in terminal
 
 5)$nightwatch
+
+Structure:
+
+-- TO BE FILLED
 
 Ali Koyuncu
